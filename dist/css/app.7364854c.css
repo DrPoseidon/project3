@@ -1,0 +1,1 @@
+.my-bed,.my-empty-bed,.my-sheets{width:100%;height:100vh;position:relative}.my-empty-bed{cursor:pointer}.header{position:absolute;top:80%;left:50%;transform:translate(-50%,-50%);text-decoration:none}*{margin:0;padding:0;box-sizing:border-box;font-family:sans-serif}.app{display:flex;flex-direction:row;align-items:center;justify-content:space-between;flex-wrap:wrap}
