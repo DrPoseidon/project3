@@ -1,11 +1,11 @@
 Model Information:
-* title:	Frosted Sheets
-* source:	https://sketchfab.com/3d-models/frosted-sheets-3e3fb2880a184a418dfa62581d07e12d
-* author:	Blender3D (https://sketchfab.com/Blender3D)
+* title:	Blanket and pillows
+* source:	https://sketchfab.com/3d-models/blanket-and-pillows-f8f19fb1be8242a383b11e0ba775d530
+* author:	niteris (https://sketchfab.com/niteris)
 
 Model License:
 * license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 * requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "Frosted Sheets" (https://sketchfab.com/3d-models/frosted-sheets-3e3fb2880a184a418dfa62581d07e12d) by Blender3D (https://sketchfab.com/Blender3D) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "Blanket and pillows" (https://sketchfab.com/3d-models/blanket-and-pillows-f8f19fb1be8242a383b11e0ba775d530) by niteris (https://sketchfab.com/niteris) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

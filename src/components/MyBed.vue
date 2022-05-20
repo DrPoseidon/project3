@@ -8,14 +8,14 @@ import MyThree from './MyThree.vue';
       class="header"
       style="color: black"
     >
-      <h1>Bed</h1>
+      <h1>Made-Up Bed</h1>
     </span>
 
     <my-three
         root=".my-empty-bed"
         gltfUrl="models/bed/scene.gltf"
         :object-options="{ position: { x: 0, y: 0, z: - 50 }, rotation: { x: 0.5, y: 0, z: 0 } }"
-        :light-options="{color: 0xffffff, intensity: 3 }"
+        :light-options="{color: 0xffffff, intensity: 2.5 }"
         :rotate="{ x: false, y: false, z: true}"
     />
   </a>

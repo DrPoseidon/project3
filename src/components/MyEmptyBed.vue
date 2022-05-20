@@ -15,7 +15,7 @@ import MyThree from './MyThree.vue';
         root=".my-bed"
         gltfUrl="models/emptyBed/scene.gltf"
         :object-options="{ position: { x: 0, y: 0, z: - 35 }, rotation: { x: 0.5, y: 0, z: 0 } }"
-        :light-options="{color: 0xffffff, intensity: 3 }"
+        :light-options="{color: 0xffffff, intensity: 1.5 }"
         :rotate="{ x: true, y: false, z: false}"
     />
   </a>
